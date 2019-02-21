@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Python Bomb Defusal Bot for Keep Talking and Nobody Explodes
+Created by JKrapels 2019
+-------------------------------------------------------------------------------
+Note: This project is a hobby project, and in no way intended to infringe on any trademarks
+
+This project is a python bot that assists with the popular Steam game Keep Talking and Nobody Explodes.
+Game: https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/
+Manual: http://www.bombmanual.com/manual/1/pdf/Bomb-Defusal-Manual_1.pdf
+
+The game normally requires a player operating the bomb, and a player reading the instruction manual.
+This python bot should (eventually) be able to completely replace the manual player by being a click-through assistant
+for the bomb player.
+---------------------------------------------------------------------------------
+
+How to use:
+Current version: run the .py file of the corresponding module on the Bomb using python 3.6
+
+# https://wiki.python.org/moin/TkInter
+-------------------------------------------------------------------------------
+Change History:
+
+V0.1 (21-02-2019): Single .py files for modules WIRES and KEYPADS
+
+V0.2 (?): Added module Button and usable GUI for the first three modules
+-------------------------------------------------------------------------------
+
+
+
